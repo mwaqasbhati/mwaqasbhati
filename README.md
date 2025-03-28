@@ -1,16 +1,13 @@
-## Hi there 👋
+🚀 Why Choose Me?
+With a versatile global experience spanning 4 regions, I have successfully delivered 25+ apps, amassing 2M+ downloads and driving $2B+ in transactions.
 
-<!--
-**mwaqasbhati/mwaqasbhati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Global Expertise:
+🇺🇸 USA (New York, San Francisco) – Built ML-powered SDKs and optimized app performance at Entrupy Inc. & Rydite.
 
-Here are some ideas to get you started:
+🇬🇧 UK – Provided top-tier IT talent for a global firm at Index.dev.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇦🇪 UAE (Dubai) – Led development for Dubai Now & The Dubai Mall apps, serving millions of users at Emaar & Digital Dubai.
+
+🇵🇰 Pakistan – Established a strong technical foundation at Netsol Technologies.
+
+💡 Let’s build something impactful together!
