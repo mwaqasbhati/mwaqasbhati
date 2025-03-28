@@ -1,4 +1,5 @@
 🚀 Why Choose Me?
+
 With a versatile global experience spanning 4 regions, I have successfully delivered 25+ apps, amassing 2M+ downloads and driving $2B+ in transactions.
 
 🌍 Global Expertise:
